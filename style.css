@@ -150,7 +150,8 @@ body {
 
 .text h1 {
   align-items: center;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 5rem;            /* 🔥 CHANGE SIZE HERE */
   color: red;
   white-space: nowrap;
@@ -161,7 +162,8 @@ body {
 
 .text p {
   align-items: center;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 2rem;          /* 🔥 CHANGE SIZE HERE */
   color: rgb(255, 46, 46);
 }
